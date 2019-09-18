@@ -9,7 +9,7 @@ code
 
 |         模型         | CTB5/dev  | CTB5/test  | PD2/dev | PD2/test  |
 |:--------------------:|:---------:|:----------:|:-------:|:---------:|
-|   Baseline BiLSTM    | 95.95 | 95.89 | 97.53 | 97.42 |
+|  Multi-Task Learning | 95.95 | 95.89 | 97.53 | 97.42 |
 | Neural Coupled Model | **95.99** | **95.96** | **97.64** | **97.56** |
 
 |         模型         | CTB5-test/P  | CTB5-test/R  | CTB5-test/F | PD1-test/P  | PD1-test/R  | PD1-test/F |
